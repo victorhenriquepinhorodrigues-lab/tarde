@@ -43,7 +43,7 @@ while qtd_pessoas > contador:
             entraram +=1
     contador += 1
 #Contagem dos cara 
-print(f"{qtd_pessoas} que foram cadastradas.")
+print(f"{qtd_pessoas} pessoas que foram cadastradas.")
 print(f"Foram Barradas {barradas} pessoas.")
 print(f"{entraram} Pessoas entraram na festa.")
 print(f"{entradaSemConvite} Entraram sem convite.")
