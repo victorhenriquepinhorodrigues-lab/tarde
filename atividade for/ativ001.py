@@ -8,4 +8,3 @@ while atual <= numero:
     proxima = anterior + atual
     anterior = atual
     atual = proxima
-
